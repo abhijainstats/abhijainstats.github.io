@@ -1,0 +1,5 @@
+---
+title: "CV"
+---
+
+[Download my CV](files/cv.pdf)

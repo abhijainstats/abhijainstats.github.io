@@ -1,0 +1,15 @@
+---
+title: "Home"
+---
+
+# Abhi Jain
+
+Hi, I’m a PhD student working on **statistics and causal inference**.
+
+## Research Interests
+- Causal inference  
+- Bayesian methods  
+- Machine learning  
+
+## Contact
+- Email: jaina22@bu.edu

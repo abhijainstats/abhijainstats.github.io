@@ -1,10 +1,10 @@
 ---
 title: Software
-description: |
-  R packages and code for Bayesian spatial and causal modeling.
+description: ""
 author: "Abhi Jain"
 show_post_thumbnail: false
 show_author_byline: false
 show_post_date: false
+show_button_links: false
 layout: list
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Modeling health and well-being measures using ZIP code spatial neighborhood patterns"
 subtitle: ""
-excerpt: "Spatially informed regression models that generate ZCTA-level well-being rankings by borrowing information across neighboring ZIP codes."
+excerpt: "Modeling individual-level well-being survey data to generate ZIP code tabulation area (ZCTA)-level rankings through spatially informed statistical modeling using a graph Laplacian matrix."
 date: 2024-04-03
 author: "Abhi Jain"
 featured: true

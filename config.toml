@@ -17,7 +17,7 @@ enableRobotsTXT = true
   orgLocal = "Boston, MA"
   description = "PhD candidate in Biostatistics working on Bayesian causal inference for spatial and multilevel data"
   favicon = "/img/favicon.ico"
-  mainSections = ["research", "software", "teaching"]
+  mainSections = ["research", "software"]
   navallcaps = true
 
   # Color theme options: forest, grayscale, peach, plum, poppy, sky, violet, water

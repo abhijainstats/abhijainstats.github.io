@@ -1,0 +1,13 @@
+// Override this file to add your own SCSS styling.
+
+// Let text on wide standalone pages use the full column width
+.wide-page .post-body {
+  ul, ol, dl, > p, blockquote {
+    max-width: none;
+  }
+}
+
+// Hide heading anchor-link icons on wide standalone pages
+.wide-page .anchor-symbol {
+  display: none;
+}

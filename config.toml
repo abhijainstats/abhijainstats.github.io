@@ -1,0 +1,75 @@
+baseURL = "https://abhijainstats.github.io/"
+title = "Abhi Jain"
+theme = "hugo-apero"
+languageCode = "en"
+enableEmoji = true
+enableRobotsTXT = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    style = "github"
+
+[params]
+  orgName = "Boston University"
+  orgLocal = "Boston, MA"
+  description = "PhD candidate in Biostatistics working on Bayesian causal inference for spatial and multilevel data"
+  favicon = "/img/favicon.ico"
+  mainSections = ["research", "software", "teaching"]
+  navallcaps = true
+
+  # Color theme options: forest, grayscale, peach, plum, poppy, sky, violet, water
+  theme = "sky"
+  custom_theme = ""
+
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Fraunces"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fab"
+  url = "https://github.com/abhijainstats"
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  url = "https://scholar.google.com/citations?user=EDIT-ME"
+[[params.social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  url = "https://www.linkedin.com/in/EDIT-ME/"
+[[params.social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  url = "https://orcid.org/EDIT-ME"
+[[params.social]]
+  icon = "cv"
+  icon_pack = "ai"
+  url = "/cv.pdf"
+
+[menu]
+  [[menu.header]]
+    name = "Research"
+    title = "Research"
+    url = "/research/"
+    weight = 1
+  [[menu.header]]
+    name = "Software"
+    title = "Software"
+    url = "/software/"
+    weight = 2
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 3
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact"
+    url = "/contact/"
+    weight = 4
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 1

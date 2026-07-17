@@ -1,10 +1,10 @@
 ---
 title: Research
-description: |
-  Bayesian causal inference for spatial and multilevel data — causal forests, spatial confounding, and interference — applied to food environments and obesity.
+description: ""
 author: "Abhi Jain"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
+show_button_links: false
 layout: list-grid
 ---

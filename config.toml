@@ -28,21 +28,21 @@ enableRobotsTXT = true
   customheadingFontFamily = "Fraunces"
 
 [[params.social]]
-  icon = "github"
-  icon_pack = "fab"
-  url = "https://github.com/abhijainstats"
-[[params.social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  url = "https://scholar.google.com/citations?user=EDIT-ME"
+  icon = "envelope"
+  icon_pack = "fas"
+  url = "mailto:jaina22@bu.edu"
 [[params.social]]
   icon = "linkedin"
   icon_pack = "fab"
-  url = "https://www.linkedin.com/in/EDIT-ME/"
+  url = "https://www.linkedin.com/in/abhijainstats/"
 [[params.social]]
-  icon = "orcid"
+  icon = "google-scholar"
   icon_pack = "ai"
-  url = "https://orcid.org/EDIT-ME"
+  url = "https://scholar.google.com/citations?user=uT9FtScAAAAJ&hl=en&oi=ao"
+[[params.social]]
+  icon = "github"
+  icon_pack = "fab"
+  url = "https://github.com/abhijainstats"
 [[params.social]]
   icon = "cv"
   icon_pack = "ai"

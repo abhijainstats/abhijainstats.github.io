@@ -7,6 +7,7 @@ layout: contact
 
 **Boston University School of Public Health** — Department of Biostatistics
 
+- **SPH BS 880** — Biostatistics Capstone: Design and Analysis of Investigations *(Fall 2026)*
 - **SPH BS 755** — Theory of Linear Models in Biostatistics *(Fall 2026)*
 - **SPH BS 800** — Accelerated Statistical Training *(Summer 2026)*
 - **SPH BS 401S** — Survey in Biostatistical Methods *(Summer 2026)*

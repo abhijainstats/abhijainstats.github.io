@@ -73,3 +73,6 @@ enableRobotsTXT = true
     name = "Contact"
     url = "/contact/"
     weight = 1
+
+[params.math]
+  renderer = "katex"

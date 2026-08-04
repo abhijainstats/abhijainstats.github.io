@@ -1,7 +1,7 @@
 ---
 title: "Bayesian causal forests for estimating heterogeneous effects with joint treatments and interference"
 subtitle: ""
-excerpt: "A joint treatment Bayesian Causal Forest (BCF) that estimates direct and indirect effects of community-level exposures under interference and heterogeneity."
+excerpt: "We propose a joint treatment Bayesian Causal Forest (jtBCF) that estimates direct and indirect effects of joint treatment and apply it to a setting of interference."
 date: 2026-08-01
 author: "Abhi Jain"
 featured: true

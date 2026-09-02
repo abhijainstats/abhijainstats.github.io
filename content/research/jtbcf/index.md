@@ -13,4 +13,4 @@ Estimating the causal effect of community exposures, such as county or ZIP Code 
 
 {{< figure src="featured.png" align="center" alt="Scatterplots of estimated direct effects for Texas ZCTAs by income and SNAP percentile" caption="Scatterplots of $\widehat{DE}(\tilde{A}=1)$ for ZCTAs in Texas by different levels of median household income and percent SNAP beneficiaries. The x-axis of each plot is the percentile value of each covariate and the red line is the loess curve." >}}
 
-This work was presented at the “Bayesian Tree-Based Models and BART Methods” session at JSM 2026.
+This work was presented at the “Bayesian Tree-Based Models and BART Methods” session at JSM 2026 and the slides can be found [here](/slides/jsm2026.pdf).

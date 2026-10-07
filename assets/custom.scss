@@ -24,3 +24,11 @@ figure {
     margin-right: auto;
   }
 }
+
+// Homepage intro paragraphs — uniform size and comfortable spacing
+.home-intro p {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
